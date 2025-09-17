@@ -1,4 +1,4 @@
-# YouTube More Speeds v1.0.0
+# More Speed Buttons on YouTube
 Userscript that adds buttons under a YouTube video with more playback speeds.</br>
 Looks good with dark mode and light mode.</br>
 </br>
