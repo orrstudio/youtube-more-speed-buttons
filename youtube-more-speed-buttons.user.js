@@ -1,33 +1,27 @@
 // ==UserScript==
-
-// @version      1.0.0
-
-// @name    More Speed Buttons on YouTube
-// @name:tr YouTube-da Daha Fazla Hız Düğmesi
-// @name:az YouTube-da Daha Çox Sürət Düyməsi
-// @name:ru Больше кнопок скорости на YouTube
-
+// @name         More Speed Buttons on YouTube
+// @name:tr      YouTube-da Daha Fazla Hız Düğmesi
+// @name:az      YouTube-da Daha Çox Sürət Düyməsi
+// @name:ru      Больше кнопок скорости на YouTube
 // @description  Adds buttons under a YouTube video with more speeds.
 // @description:tr YouTube videosunun altında daha fazla hız için düğmeler ekler.
 // @description:az YouTube videosunun altında daha çox sürət üçün düymələr əlavə edir.
 // @description:ru Больше кнопок скорости на YouTube.
-
 // @author       Oruc Qafarov (Orr888)
 // @version      1.0.0
 // @license      MIT
+// @match        *://*.youtube.com/*
+// @match        *://youtube.com/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
+// @grant        none
+// @run-at       document-idle
 // @contributionURL https://www.youtube.com/@OrrStudio
 // @namespace    https://github.com/orrstudio
 // @homepageURL  https://github.com/orrstudio/youtube-more-speed-buttons
 // @supportURL   https://github.com/orrstudio/youtube-more-speed-buttons/issues
 // @updateURL    https://update.greasyfork.org/scripts/549838/youtube-more-speed-buttons.user.js
 // @downloadURL  https://update.greasyfork.org/scripts/549838/youtube-more-speed-buttons.user.js
-
-// @match        https://www.youtube.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
-// @grant        none
-// @run-at       document-idle
-
-// @match        *://*.youtube.com/*
+// ==/UserScript==
 
 (function() {
     'use strict';
