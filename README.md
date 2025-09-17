@@ -1,19 +1,26 @@
 # More Speed Buttons on YouTube
-Userscript that adds buttons under a YouTube video with more playback speeds.</br>
-Looks good with dark mode and light mode.</br>
-</br>
-Install as a userscript here: 
 
-[https://greasyfork.org/nl/scripts/421670-youtube-more-speeds](https://greasyfork.org/nl/scripts/youtube-more-speed-buttons)
+Userscript that adds buttons under a YouTube video with more playback speeds.
 
-</br>
+## Features
+- Adds additional speed buttons under YouTube videos
+- Works with both dark and light themes
+- Easy to install and use
 
-[![youtube-more-speed-buttons](https://github.com/user-attachments/assets/446fb8bb-52ae-4ea4-bd6d-5867d70bc612)](https://greasyfork.org/nl/scripts/421670-youtube-more-speeds)
+## Installation
 
-</br>
-or copy and past this script: 
+### Option 1: Install from GreasyFork
+1. Click here to install: [More Speed Buttons on YouTube](https://greasyfork.org/scripts/549838-youtube-more-speed-buttons)
+2. Click "Install this script" on the GreasyFork page
 
-[youtube-more-speed-buttons.user.js](https://github.com/orrstudio/youtube-more-speed-buttons/blob/main/youtube-more-speed-buttons.user.js)
+### Option 2: Manual Installation
+1. Click this link to install directly: [youtube-more-speed-buttons.user.js](https://update.greasyfork.org/scripts/549838/youtube-more-speed-buttons.user.js)
+2. Your userscript manager will prompt you to install the script
+
+### Option 3: From Source
+1. Visit the [GitHub repository](https://github.com/orrstudio/youtube-more-speed-buttons)
+2. Copy the contents of `youtube-more-speed-buttons.user.js`
+3. Create a new script in your userscript manager and paste the code
 
 </br>
 </br>

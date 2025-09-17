@@ -1,5 +1,6 @@
 // ==UserScript==
-// @name         More Speed Buttons on YouTube
+// @name         youtube-more-speed-buttons
+// @name:en      More Speed Buttons on YouTube
 // @name:tr      YouTube-da Daha Fazla Hız Düğmesi
 // @name:az      YouTube-da Daha Çox Sürət Düyməsi
 // @name:ru      Больше кнопок скорости на YouTube
