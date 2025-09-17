@@ -2,6 +2,8 @@
 
 Userscript that adds buttons under a YouTube video with more playback speeds.
 
+<img width="995" height="30" alt="Снимок экрана от 2025-09-17 21-09-54" src="https://github.com/user-attachments/assets/8ab8560c-b671-4eaa-b2b0-0eca724f7585" />
+
 ## Features
 - Adds additional speed buttons under YouTube videos
 - Works with both dark and light themes
